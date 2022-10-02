@@ -1,0 +1,84 @@
+1
+Kimchi
+
+2
+Bibimbap
+
+
+
+4
+Bulgogi
+
+5
+Korean stew (jjigae)
+
+6
+Jajangmyeon
+
+7
+Samgyeopsal
+
+8
+Korean fried chicken
+
+9
+Spicy cold noodle (bibim nengmyun)
+
+10
+Ginseng chicken soup (samgyetang)
+
+
+1. Hangover stew (해장국)
+
+Soft Tofu Stew (순두부찌개)
+
+ Samgyeopsal (삼겹살)
+
+ Jjajangmyeon (짜장면)
+
+6. Chimaek (치맥)
+
+ Instant noodles (라면)
+
+ Kimchi Stew (김치찌개)
+
+ Army Stew (부대찌개)
+
+ Soy sauce crab (간장게장)
+
+. Tteokbokki (떡볶이)
+13. Samgyetang (삼계탕)
+
+ Bibimbap (비빔밥)
+
+15. Gimbap (김밥)
+
+ Doenjang (된장)
+Gamjatang (감자탕)
+
+Haemul Pajeon (해물파전)
+
+ Jjambbong (짬뽕)
+
+ Kongguksu (콩국수)
+
+ Kalguksu (칼국수)
+
+ Ox Bone Soup (설렁탕)
+
+ Tteokguk (떡국)
+Doenjang jjigae (된장찌개)
+
+Galbi (갈비)
+
+Chuncheon dakgalbi (춘천 닭갈비)
+
+Bossam (보쌈)
+
+Agujjim (아구찜)
+
+Japchae (잡채)
+
+Gyeranjjim (계란찜)
+
+Dotorimuk (도토리묵)
