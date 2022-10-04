@@ -20,7 +20,7 @@ This Korean restaurant website ( 和え魚コレア) which helps  owners  a plat
 Firstly I worked for logo and digitalize logo using the inkscape 
 next this website has 4 navigation bars like, HOME, OUR MENU, ABOUT US, CONTACT US.
 
-HOME: In the home page has name with hover effect when take courser over, the text color becomes transparent and I added video in the background video is playing automatically. Next I added image slider. Next I created the team member section. If I moved the courser over any team member you can see an animated gradient color border around the team member profile. next I added top menu section of our restaurant and we added food name as well as price of the food and I added hover effect to look little bit beautiful
+HOME: In the home page has name with hover effect when take courser over,the text color becomes transparent and I added video in the background video is playing automatically. Next I added image slider. Next I created the team member section. If I moved the courser over any team member you can see an animated gradient color border around the team member profile. next I added top menu section of our restaurant and we added food name as well as price of the food and I added hover effect to look little bit beautiful
 next I added footer here it has link for every page and timings of our restaurant in holiday hours as well as normal days and social links when u can also check update on their social media
 
 OUR MENU: In the menu page is also have the hover effect on the restaurant name and when u click the top shef reviews it will take u for reviews of to shef
