@@ -13,7 +13,7 @@ https://youtu.be/LywGzIc6wvk
                  
 Building a great online presence is essential to the success of the restaurant. 
 A well-designed restaurant website is the cornerstone of this online presence and can serve to both attract new customers and build loyalty in existing customers. 
-This Korean restaurant website ( 和え魚コレア) which helps  owners  a platform to tell their own story, in their own words .Customers will get a good idea of who you are, as well as get an idea of the overall atmosphere of the restaurant., menu and contact us details
+This Korean restaurant website ( 和え魚コレア) which helps  owners  a platform to tell their own story, in their own words .Customers will get a good idea of who you are, as well as get an idea of the overall atmosphere of the restaurant, menu and contact us details
 Firstly I worked for logo and digitalize logo using the inkscape 
 next this website has 4 navigation bars like, HOME, OUR MENU, ABOUT US, CONTACT US.
 
