@@ -2,7 +2,7 @@
 # Website Demo
  https://nagarajamr.github.io/Korean-Restaurant.github.io/
  
- # This is the logo of the Pickle-Brand
+ # This is the logo of Korean Restaurant Brand ( 和え魚コレア)
  
 # Watch full Design and Development process on My Youtube channel 
 PART 1
