@@ -3,7 +3,7 @@
  https://nagarajamr.github.io/Korean-Restaurant.github.io/
  
  # This is the logo of Korean Restaurant Brand ( 和え魚コレア)
- ![path225](https://user-images.githubusercontent.com/72555080/193769571-235aae65-99cd-40dc-91ce-2c7fb7e05472.png)
+
 # Watch full Design and Development process on My Youtube channel 
 PART 1
 https://youtu.be/DtVWlknyVws 
