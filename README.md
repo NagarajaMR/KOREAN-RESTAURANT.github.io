@@ -29,3 +29,6 @@ In the main menu of restaurant  it has hover effect here you can see how online 
 ABOUT US: In the footer section when you click the about us page it will show the complete details of the restaurant   and next I added old photo of restaurant and its information. When you click the order now button it will redirect you to the menu page to select the food which you want. Download button is not working because the app is not yet ready and I added achievement vision and mission of the restaurant.
 
 CONTACT US: In the contact us page here I added dirrect link to tomato because app is not ready yet and here you can see the location and information of the restaurant and if you want to contact the restaurant you can message also next you can see the frequently asked questions then I added some important questions with need
+
+![1](https://user-images.githubusercontent.com/72555080/193772094-1a13ab13-e748-4686-9cf0-7101897f3323.png)
+![2](https://user-images.githubusercontent.com/72555080/193772127-df67692c-a645-49a3-80be-e469543555b6.png)
