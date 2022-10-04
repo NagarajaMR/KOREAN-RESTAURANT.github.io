@@ -9,7 +9,7 @@ https://youtu.be/DtVWlknyVws
 PART 2
 https://youtu.be/LywGzIc6wvk
 
-	  # Korean Restaurant Brand ( 和え魚コレア)
+# Korean Restaurant Brand ( 和え魚コレア)
                  
 Building a great online presence is essential to the success of the restaurant. 
 A well-designed restaurant website is the cornerstone of this online presence and can serve to both attract new customers and build loyalty in existing customers. 
